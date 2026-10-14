@@ -1,0 +1,9 @@
+site_name: 我的技术文档
+site_url: https://dusk5-Surtr.github.io/my-docs/
+theme:
+  name: material # 使用Material主题
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 指南: guide.md
+  - API: api.md
